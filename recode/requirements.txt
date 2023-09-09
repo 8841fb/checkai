@@ -1,0 +1,5 @@
+jishaku
+discord.py[speed]
+prodiapy
+openai
+
